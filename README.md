@@ -2,11 +2,11 @@
 
 # Public Parameter Analyzers (in an appified context)
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2011|[Felt et al.][Felt2012]||||||||||X|||||
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2012|[Costante et al.][Costante2012]     ||||||||||||||X|
 |2012|[Savla et al.][Savla2012]           ||||||||||||||X|
@@ -17,7 +17,7 @@
 |2012|[Au et al.][Au2012]                 |||||||||||X||||
 |2012|[Zhou et al.][Zhou2012]             |||||||||||X||||
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2013|[Costante et al.][Costante2013]     ||||||||||||||X|
 |2013|[Massey et al.][Massey2013]         ||||||||||||||X|
@@ -26,7 +26,7 @@
 |2013|[Pandita et al.][Pandita2013]       |||||||||||XX||||
 |2013|[Fu et al.][Fu2013]                 |X|X|X|X|X|||X|||||||
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2014|[Ramanath et al.][Ramanath2014]     ||||||||||||||X|
 |2014|[Liu et al.][Liu2014]               ||||||||||||||X|
@@ -36,12 +36,12 @@
 |2014|[Gorla et al.][Gorla2014]           |||||||||X|X|X||||
 |2014|[Qu et al.][Qu2014]                 ||||||||||X|X||||
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2015|[Panichella et al.][Panichella2015] |X|||||||X|||||||
 |2015|[Kong et al.][Kong2015]             |X|||X||||X|||||||
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2016|[Wilson et al.][Wilson2016]         ||||||||||||||X|
 |2016|[Liu et al.][Liu2016]               ||||||||||||||X|
@@ -52,7 +52,7 @@
 |2016|[Slavin et al.][Slavin2016]         |||||||||X|||||X|
 |2016|[Reyes et al.][Reyes2016]           |||||||||X|||||X|
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2017|[Zimmeck et al.][Zimmeck2017]       |X||X|X||||X||X|||X||
 |2017|[Sathyendra et al.][Sathyendra2017] |||||||||||||||
@@ -61,7 +61,7 @@
 |2017|[Moussa et al.][Moussa2017]         |||||||||||||||
 |2017|[Palomba et al.][Palomba2017]       |||||||||||||||
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2018|[Harkous et al.][Harkous2018]       |||||||||||||||
 |2018|[Brandtzaeg et al.][Brandtzaeg2018] |||||||||||||||
@@ -70,7 +70,7 @@
 |2018|[Nguyen et al.][Nguyen2018]         |||||||||||||||
 |2018|[Yu et al.][Yu2018]                 |||||||||||||||
 
-| Year | Tool | User reviews | Price | #Downloads | Rating | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
+| Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2019|[Hatamian et al.][Hatamian2019]     |||||||||||||||
 |2019|[Wettlauer et al.][Wettlauer2019]   |||||||||||||||
