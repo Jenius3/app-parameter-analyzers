@@ -48,14 +48,14 @@
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2016|[Wilson et al.][Wilson2016]         ||||||||||||||X|
-|2016|[Liu et al.][Liu2016]               ||||||||||||||X|
-|2016|[Sathyendra et al.][Sathyendra2016] ||||||||||||||X|
-|2016|[Tomuro et al.][Tomuro2016]         ||||||||||||||X|
-|2016|[Yu et al.][Yu2016]                 ||||||||||||||X|
-|2016|[Bhatia et al.][Bhatia2016]         ||||||||||||||X|
-|2016|[Slavin et al.][Slavin2016]         |||||||||X|||||X|
-|2016|[Reyes et al.][Reyes2016]           |||||||||X|||||X|
+|2016|[Wilson et al.][Wilson2016]         |||||||||||||X|
+|2016|[Liu et al.][Liu2016]               |||||||||||||X|
+|2016|[Sathyendra et al.][Sathyendra2016] |||||||||||||X|
+|2016|[Tomuro et al.][Tomuro2016]         |||||||||||||X|
+|2016|[Yu et al.][Yu2016]                 |||||||||||||X|
+|2016|[Bhatia et al.][Bhatia2016]         |||||||||||||X|
+|2016|[Slavin et al.][Slavin2016]         ||||||||X|||||X|
+|2016|[Reyes et al.][Reyes2016]           ||||||||X|||||X|
 
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
