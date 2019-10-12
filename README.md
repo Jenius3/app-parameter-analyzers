@@ -60,28 +60,28 @@
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2017|[Zimmeck et al.][Zimmeck2017]       |X||X|X||||X||X|||X||
-|2017|[Sathyendra et al.][Sathyendra2017] |||||||||||||||
-|2017|[Oltramari et al.][Oltramari2017]   |||||||||||||||
-|2017|[Alhadlaq et al.][Alhadlaq2017]     |||||||||||||||
-|2017|[Moussa et al.][Moussa2017]         |||||||||||||||
-|2017|[Palomba et al.][Palomba2017]       |||||||||||||||
+|2017|[Zimmeck et al.][Zimmeck2017]       |X||X|X||||X||X|||X|
+|2017|[Sathyendra et al.][Sathyendra2017] |||||||||||||X|
+|2017|[Oltramari et al.][Oltramari2017]   |||||||||||||X|
+|2017|[Alhadlaq et al.][Alhadlaq2017]     |||||||||||||X|
+|2017|[Moussa et al.][Moussa2017]         |||X|X|||X|X||X||||
+|2017|[Palomba et al.][Palomba2017]       |X|||||||||||||
 
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2018|[Harkous et al.][Harkous2018]       |||||||||||||||
-|2018|[Brandtzaeg et al.][Brandtzaeg2018] |||||||||||||||
-|2018|[Story et al.][Story2018]           |||||||||||||||
-|2018|[Liu et al.][Liu2018]               |||||||||||||||
-|2018|[Nguyen et al.][Nguyen2018]         |||||||||||||||
-|2018|[Yu et al.][Yu2018]                 |||||||||||||||
+|2018|[Harkous et al.][Harkous2018]       |||||||||||||X|
+|2018|[Brandtzaeg et al.][Brandtzaeg2018] ||||||||||||X|X|
+|2018|[Story et al.][Story2018]           ||X|X|X|X|||X|||||X|
+|2018|[Liu et al.][Liu2018]               |||||||||||||X|
+|2018|[Nguyen et al.][Nguyen2018]         |X|||X||||X||X||||
+|2018|[Yu et al.][Yu2018]                 |||||||||X|X|||X|
 
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2019|[Hatamian et al.][Hatamian2019]     |||||||||||||||
-|2019|[Wettlauer et al.][Wettlauer2019]   |||||||||||||||
+|2019|[Hatamian et al.][Hatamian2019]     |X|||||||||X|||X|
+|2019|[Wettlauer et al.][Wettlauer2019]   |X|||||||||X|||X|
 
 [Felt2012]:https://dl.acm.org/citation.cfm?doid=2046707.2046779
 
