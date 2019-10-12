@@ -3,8 +3,8 @@
 # Public Parameter Analyzers (in an appified context)
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
-|:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2011|[Felt et al.][Felt2012]||||||||||X|||||
+|:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2011|[Felt et al.][Felt2012]||||||||||X||||
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
