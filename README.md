@@ -14,9 +14,9 @@
 |2012|[Chia et al.][Chia2012]             ||X|X|X|X||X|||X|||||
 |2012|[Frank et al.][Frank2012]           ||X|X|X|X|||||X|||||
 |2012|[Sarma et al.][Sarma2012]           ||||||||X||X|||||
-|2012|[Peng et al.][Peng2012]             |||||||||X||X||||
-|2012|[Au et al.][Au2012]                 |||||||||||X||||
-|2012|[Zhou et al.][Zhou2012]             |||||||||||X||||
+|2012|[Peng et al.][Peng2012]             ||||||||X||X||||
+|2012|[Au et al.][Au2012]                 ||||||||||X||||
+|2012|[Zhou et al.][Zhou2012]             ||||||||||X||||
 
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
