@@ -3,12 +3,12 @@
 # Public Parameter Analyzers (in an appified context)
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
-|:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2011|[Felt et al.][Felt2012]||||||||||X|||||
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2012|[Costante et al.][Costante2012]     ||||||||||||||X|
+|2012|[Costante et al.][Costante2012]     | | | | | | | | | | | | | |X|
 |2012|[Savla et al.][Savla2012]           ||||||||||||||X|
 |2012|[Chia et al.][Chia2012]             ||X|X|X|X||X|||X|||||
 |2012|[Frank et al.][Frank2012]           ||X|X|X|X|||||X|||||
