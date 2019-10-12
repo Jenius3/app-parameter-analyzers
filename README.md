@@ -23,9 +23,9 @@
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2013|[Costante et al.][Costante2013]     ||||||||||||||X|
 |2013|[Massey et al.][Massey2013]         ||||||||||||||X|
-|2013|[Goldberg et al.][Goldberg2013]     |||||||X|||X|X||||
+|2013|[Goldberg et al.][Goldberg2013]     ||||X||||X||X|||||
 |2013|[Wang et al.][Wang2013]             |||||||||X||X||||
-|2013|[Pandita et al.][Pandita2013]       |||||||||||XX||||
+|2013|[Pandita et al.][Pandita2013]       ||||||||||X|X||||
 |2013|[Fu et al.][Fu2013]                 |X|X|X|X|X|||X|||||||
 
 
