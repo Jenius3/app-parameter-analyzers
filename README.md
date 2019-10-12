@@ -81,13 +81,14 @@
 |[Liu et al.][Liu2018]               |||||||||||||X|
 |[Nguyen et al.][Nguyen2018]         |X|||X||||X||X||||
 |[Yu et al.][Yu2018]                 |||||||||X|X|||X|
+|[Kesswani et al.][Kesswani2018]     ||||||||||X||||
 
 
 ## 2019
 | Work | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[Hatamian et al.][Hatamian2019]     |X|||||||||X|||X|
-|[Wettlauer et al.][Wettlauer2019]   |X|||||||||X|||X|
+|Wettlauer et al.   |X|||||||||X|||X|
 
 [Felt2012]:https://dl.acm.org/citation.cfm?doid=2046707.2046779
 
@@ -140,6 +141,6 @@
 [Liu2018]:https://kilthub.cmu.edu/articles/Towards_Automatic_Classification_of_Privacy_Policy_Text/6626285/1
 [Nguyen2018]:https://publications.cispa.saarland/2625/
 [Yu2018]:https://doi.org/10.1109/tse.2017.2730198
+[Kesswani2018]:https://ieeexplore.ieee.org/abstract/document/8395277
 
 [Hatamian2019]:https://www.springerprofessional.de/en/a-multilateral-privacy-impact-analysis-method-for-android-apps/16782232
-[Wettlauer2019]:
