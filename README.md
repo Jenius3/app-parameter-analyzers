@@ -1,4 +1,4 @@
-# Public Parameter Analyzers (in an appified context)
+# Public App Parameter Analyzers (mobile context)
 
 ## 2011
 | Work | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
