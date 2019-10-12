@@ -31,13 +31,13 @@
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
 |:--- | ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2014|[Ramanath et al.][Ramanath2014]     ||||||||||||||X|
-|2014|[Liu et al.][Liu2014]               ||||||||||||||X|
-|2014|[Zimmeck et al.][Zimmeck2014]       ||||||||||||||X|
+|2014|[Ramanath et al.][Ramanath2014]     |||||||||||||X|
+|2014|[Liu et al.][Liu2014]               |||||||||||||X|
+|2014|[Zimmeck et al.][Zimmeck2014]       |||||||||||||X|
 |2014|[Guzman et al.][Guzman2014]         |X|||X||||X|||||||
 |2014|[Chen et al.][Chen2014]             |X|||X|||||||||||
-|2014|[Gorla et al.][Gorla2014]           |||||||||X|X|X||||
-|2014|[Qu et al.][Qu2014]                 ||||||||||X|X||||
+|2014|[Gorla et al.][Gorla2014]           ||||||||X|X|X||||
+|2014|[Qu et al.][Qu2014]                 |||||||||X|X||||
 
 
 | Year | Tool | User reviews | Price | #Downloads | Rating | #Ratings | Size/Space | Developer | Category | Description | Permissions | Search ranking | Terms & Conditions | Privacy Policy |
