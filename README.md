@@ -1,3 +1,5 @@
+### TODO: insert works from master thesis p.30-39
+
 # Public App Parameter Analyzers (mobile context)
 
 ## 2011
